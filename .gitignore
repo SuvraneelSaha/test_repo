@@ -5,4 +5,5 @@
 
 # using the sign * --> to ignore everything 
 
-*. 
+*.txt 
+
