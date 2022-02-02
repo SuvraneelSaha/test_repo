@@ -44,6 +44,18 @@ make sure you dont stage the file in the github desktop
 
 and then add it to the git_ignore file 
 
+
+4th point -----------important-----------
+
+when doing negating pattern in git_ignore (unexclude ie not excluding ie including the file )
+
+make sure you type the unignored file right below the main ignoring file_type
+
+ex - 
+        *.txt 
+        !2.txt 
+        
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 
