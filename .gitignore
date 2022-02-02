@@ -1,9 +1,0 @@
-
-
-
-# using automate to exclude ie (git_ignore ) a certain file_type 
-
-# using the sign * --> to ignore everything 
-
-*.txt 
-
