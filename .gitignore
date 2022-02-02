@@ -1,7 +1,7 @@
 
 *.txt
 
-!random1.txt
-!random123.txt
+!.random1.txt
+!.random123.txt
 
 
