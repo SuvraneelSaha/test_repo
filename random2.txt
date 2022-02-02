@@ -8,3 +8,13 @@ so i can include that file in the git ignore file section
 
 simple and wonderful 
 
+in case you are wondering why the info.txt , 1.txt and info1.txt file are not shown in the public repository
+
+is because it is in the git_ignore file section 
+
+so they are not gonna be shown on the main branch of the repository
+
+but 2222222222 point 
+
+
+
