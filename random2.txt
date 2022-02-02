@@ -1,5 +1,8 @@
 some more random nots !! 
 
+
+USE case of git_ignore file : 
+
 by using the git ignore files we could add more files and folder that we need but also dont need 
 
 say i include a file that is useful for me but i dont want the public or anyone to see 
@@ -8,13 +11,42 @@ so i can include that file in the git ignore file section
 
 simple and wonderful 
 
+questions to come in mind : 
+
 in case you are wondering why the info.txt , 1.txt and info1.txt file are not shown in the public repository
 
 is because it is in the git_ignore file section 
 
 so they are not gonna be shown on the main branch of the repository
 
-but 2222222222 point 
+
+
+
+but 2nd point ------ important ----------
+
+see here the two files random1.txt and random2.txt files are shown in the public repository 
+
+the question may come to our mind how and why 
+
+--> both the files random1 and random2 were created before the git_ignore file and were 
+
+first staged then committed on the main public repository 
+
+so for which the git_ignore cannot interfere with them as the are already committed in public repository 
+
+3rd point ------important--------------
+
+when making a file which you will be ignoring in the main public repository 
+
+make sure you dont stage the file in the github desktop 
+
+(make it unchecked )
+
+and then add it to the git_ignore file 
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
