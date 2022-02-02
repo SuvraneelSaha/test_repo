@@ -1,0 +1,15 @@
+wildcard 
+
+it can be bit tidious to manually add the same type of files again and again
+
+in the git ignore file section
+
+so what we can do is that 
+
+we can use wildcard
+
+it is a technique by which the specific files automatically gets ignored and will not be shown in the public repository
+
+syntax 
+
+*.(file_type)

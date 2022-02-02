@@ -1,0 +1,10 @@
+some more random nots !! 
+
+by using the git ignore files we could add more files and folder that we need but also dont need 
+
+say i include a file that is useful for me but i dont want the public or anyone to see 
+
+so i can include that file in the git ignore file section 
+
+simple and wonderful 
+
